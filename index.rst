@@ -6,15 +6,15 @@
 Welcome to sl's documentation!
 ==============================
 
-`hello`_ is for test.
+`READTHEDOCS`_ is for test.
 
-.. _hello: https://github.com/xiaoyaoer/forpractice/blob/master/practicefordocs/hello.txt
+.. _READTHEDOCS: https://github.com/xiaoyaoer/forpractice/blob/master/rtd.docx
 
 Contents:
 
 .. toctree::
    :maxdepth: 2
-   :caption: User Documentation
+   :caption: Documentation
 
    helloworld
 
@@ -28,3 +28,4 @@ Indices and tables
 * :ref:`modindex`
 * :ref:`search`
 
+   rtfd
