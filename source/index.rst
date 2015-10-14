@@ -18,8 +18,7 @@ Contents:
 
    helloworld
 
-   Once you have these, create a virtual environment somewhere on your disk, then
-activate it::
+Once you have these, create a virtual environment somewhere on your disk, thenactivate it::
 
     virtualenv rtd
     cd rtd
