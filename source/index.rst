@@ -17,13 +17,13 @@ Contents:
    :caption: Documentation
 
    Requirement
-      Python2.7
-      virtualenv13.1.2
-      pip
+   Python2.7
+   virtualenv13.1.2
+   pip
    Process
-      read the docs
+   read the docs
    Writing
-      Sphinx
+   Sphinx
    Using
    Errors experience
    Websites
