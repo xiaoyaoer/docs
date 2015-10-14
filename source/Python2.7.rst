@@ -27,6 +27,7 @@ Compile and install:
 	/usr/local/bin/python2.7 -V  
 
 Build soft link:
+
 	mv /usr/bin/python /usr/bin/python2.6.6  
 	ln -s /usr/local/bin/python2.7 /usr/bin/python 
 

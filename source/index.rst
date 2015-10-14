@@ -16,17 +16,17 @@ Contents:
    :maxdepth: 2
    :caption: Documentation
 
-	Requirement
-		python2.7
-		virtualenv13.1.2
-		pip
-	Process
-		read the docs
-	Writing
-		Sphinx
-	Using
-	Errors experience
-	Websites
+   Requirement
+      Python2.7
+      virtualenv13.1.2
+      pip
+   Process
+      read the docs
+   Writing
+      Sphinx
+   Using
+   Errors experience
+   Websites
 
 Indices and tables
 ==================
