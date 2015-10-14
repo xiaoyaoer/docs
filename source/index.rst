@@ -16,21 +16,17 @@ Contents:
    :maxdepth: 2
    :caption: Documentation
 
-   helloworld
-
-Once you have these, create a virtual environment somewhere on your disk, thenactivate it::
-
-    virtualenv rtd
-    cd rtd
-    source bin/activate
-
-
-You will need to verify that your pip version is higher than 1.5 you can do this as such::
-
-    pip --version
-
-
-
+	Requirement
+		python2.7
+		virtualenv13.1.2
+		pip
+	Process
+		read the docs
+	Writing
+		Sphinx
+	Using
+	Errors experience
+	Websites
 
 Indices and tables
 ==================
